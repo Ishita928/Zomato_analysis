@@ -1,7 +1,7 @@
 # 🍴 Zomato Data Analysis  
 
-## 📌 Project Overview  
-This project focuses on analyzing **Zomato restaurant data** to gain insights into customer preferences, restaurant performance, and online vs offline order behavior.  
+## 📌 Project Overview 
+- This project focuses on analyzing **Zomato restaurant data** to gain insights into customer preferences, restaurant performance, and online vs offline order behavior.  
 ---
 
 ## 🎯 Objective  
